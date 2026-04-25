@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center">
+  <img src="images/architecture.jpg" width="75%">
+</p>
+
+---
+
 ## Project Overview
 
 End-to-end big data analysis of NYC Yellow Taxi trip records, combining weather data enrichment, exploratory analysis, and two supervised ML tasks: fare prediction and tip classification.
