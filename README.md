@@ -1,5 +1,26 @@
 # NYC Yellow Taxi Big Data Analytics — UChicago ADSP 31013 Final Project
 
+<!-- BADGES_BEGIN -->
+<p align="center">
+  <img alt="Course" src="https://img.shields.io/badge/Course-ADSP%2031013-DC143C?style=flat-square&labelColor=2a323d">
+  <img alt="UChicago" src="https://img.shields.io/badge/UChicago-Big%20Data%20%26%20Cloud-800000?style=flat-square&labelColor=2a323d">
+  <img alt="Term" src="https://img.shields.io/badge/Term-Autumn%202025-2a323d?style=flat-square&labelColor=2a323d">
+  <img alt="Team" src="https://img.shields.io/badge/Team-Group%20of%205-1f7a3d?style=flat-square&labelColor=2a323d">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Final-ec5800?style=flat-square&labelColor=2a323d">
+  <img alt="Report" src="https://img.shields.io/badge/Report-PDF%20+%20Slides-EC2025?style=flat-square&labelColor=2a323d">
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat-square&labelColor=2a323d&logo=jupyter&logoColor=white">
+  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-3.5-E25A1C?style=flat-square&labelColor=2a323d&logo=apachespark&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-2.x-150458?style=flat-square&labelColor=2a323d&logo=pandas&logoColor=white">
+  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-3.x-11557C?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="seaborn" src="https://img.shields.io/badge/seaborn-0.13-4C72B0?style=flat-square&labelColor=2a323d">
+  <img alt="Meteostat" src="https://img.shields.io/badge/Meteostat-weather-0194E2?style=flat-square&labelColor=2a323d">
+</p>
+<!-- BADGES_END -->
+
 **Course:** ADSP 31013 — Big Data and Cloud Computing (Autumn 2025, University of Chicago)  
 **Team:** Group 8 — Zihao Huang, Wangdi Chen, Rui Gong, Jiawei Liu, Chiyang Chen
 
