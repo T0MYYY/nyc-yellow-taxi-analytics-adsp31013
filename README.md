@@ -7,17 +7,16 @@
   <img alt="Term" src="https://img.shields.io/badge/Term-Autumn%202025-2a323d?style=flat-square&labelColor=2a323d">
   <img alt="Team" src="https://img.shields.io/badge/Team-Group%20of%205-1f7a3d?style=flat-square&labelColor=2a323d">
   <img alt="Status" src="https://img.shields.io/badge/Status-Final-ec5800?style=flat-square&labelColor=2a323d">
-  <img alt="Report" src="https://img.shields.io/badge/Report-PDF%20+%20Slides-EC2025?style=flat-square&labelColor=2a323d">
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat-square&labelColor=2a323d&logo=jupyter&logoColor=white">
   <img alt="PySpark" src="https://img.shields.io/badge/PySpark-3.5-E25A1C?style=flat-square&labelColor=2a323d&logo=apachespark&logoColor=white">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-2.x-150458?style=flat-square&labelColor=2a323d&logo=pandas&logoColor=white">
-  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-3.x-11557C?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-2.0-150458?style=flat-square&labelColor=2a323d&logo=pandas&logoColor=white">
+  <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-3.7-11557C?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
   <img alt="seaborn" src="https://img.shields.io/badge/seaborn-0.13-4C72B0?style=flat-square&labelColor=2a323d">
-  <img alt="Meteostat" src="https://img.shields.io/badge/Meteostat-weather-0194E2?style=flat-square&labelColor=2a323d">
+  <img alt="Meteostat" src="https://img.shields.io/badge/Meteostat-1.6-0194E2?style=flat-square&labelColor=2a323d">
 </p>
 <!-- BADGES_END -->
 
